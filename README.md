@@ -1,6 +1,7 @@
 # 全流程 AI 协作写作方法网页笔记
 
-这是一个纯静态网页笔记站，可以直接通过 GitHub Pages、Netlify 或 Vercel 发布。
+这是一个纯静态网页笔记站，可以直接通过 GitHub Pages、Netlify 或 Vercel 发布。本项目用于个人学习和验证ai的网页学习能力，原creator
+请查看链接https://gongshangzheng.github.io/
 
 入口文件：
 
