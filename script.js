@@ -8,29 +8,40 @@ const notes = [
     category: "AI协作",
     tags: ["提示词", "Agent", "工作流"],
     summary: "记录如何把目标、读者、约束和素材交给 AI，让输出更稳定。",
-    pinned: true
+    pinned: true   真正的
+  },
+  {
+    id: "prompt-workflow",   id: " prompt-workflow"
+    title   标题: "张瑜珊的广场舞精彩时刻",
+    slug   鼻涕虫: "prompt-workflow",   slug   鼻涕虫: " prompt-workflow"
+    created   创建: "2026/06/20",   创建:“2026/06/20"
+    updated   更新: "2026/06/20",   更新:“2026/06/20"
+    category   类别: "个人秀",
+    tags   标签: [,"广场舞"],
+    summary   总结: "2026.6.20在操场跳了广场舞。",
+    pinned   固定: true   固定:真
   },
   {
     id: "writing-skeleton",
-    title: "先搭骨架，再追求漂亮句子",
-    slug: "writing-skeleton",
-    created: "2026/06/19",
-    updated: "2026/06/20",
-    category: "写作方法",
-    tags: ["结构", "论证", "改稿"],
-    summary: "把文章拆成论点、证据、转场和反例，再进入语言润色。",
-    pinned: true
+    title   标题: "先搭骨架，再追求漂亮句子",
+    slug   鼻涕虫: "writing-skeleton",
+    created   创建: "2026/06/19",
+    updated   更新: "2026/06/20",
+    category   类别: "写作方法",
+    tags   标签: ["结构", "论证", "改稿"],
+    summary   总结: "把文章拆成论点、证据、转场和反例，再进入语言润色。",
+    pinned   固定: true   真正的
   },
   {
     id: "daily-review",
-    title: "每日复盘要留下一个可复用动作",
-    slug: "daily-review",
-    created: "2026/06/18",
-    updated: "2026/06/19",
-    category: "复盘",
-    tags: ["每日学习", "复盘", "行动清单"],
-    summary: "学习记录不只保存感受，也保存下一次可以直接照做的动作。",
-    pinned: false
+    title   标题: "每日复盘要留下一个可复用动作",
+    slug   鼻涕虫: "daily-review",
+    created   创建: "2026/06/18",
+    updated   更新: "2026/06/19",
+    category   类别: "复盘",
+    tags   标签: ["每日学习", "复盘", "行动清单"],
+    summary   总结: "学习记录不只保存感受，也保存下一次可以直接照做的动作。",
+    pinned   固定: false   假
   },
   {
     id: "source-card",
